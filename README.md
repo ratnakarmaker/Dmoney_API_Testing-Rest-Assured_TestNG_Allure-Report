@@ -19,7 +19,7 @@ Here the following tasks are done:
 - Setup jdk 8 and Gradle
 - Configure JAVA_HOME and GRADLE_HOME in environment
 - Download Allure 2.18.1 and configure environment
-- 
+
 ### **Clone From**:
 ```
 git clone https://github.com/ratnakarmaker/Dmoney_API_Testing-Rest-Assured_TestNG_Allure-Report.git
